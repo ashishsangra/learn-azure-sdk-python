@@ -3,3 +3,5 @@ This project serves as a learning endeavor as I independently explore Python and
 
 ## My Initial Azure Project
 I've embarked on my first project in Azure, which I've taken on as a personal endeavor.
+
+###Please make suggestions and guide me through the process of becoming a Coding champ.
